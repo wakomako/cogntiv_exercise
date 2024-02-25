@@ -13,6 +13,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+The full report can be found here - [here](https://docs.google.com/document/d/1ZmYBut54J3MAaKl7c7gO465Isv4-5qu_Cm00xHpEEZ4/edit?usp=sharing)
+
 Fit the baseline model on all images (Q1) [defalut arguments are as specified in the report]
 ```bash
 python siren/scripts/represent_imgs.py --image_encoding=<image_encoding_version> --side_length=<image_side_length> 
